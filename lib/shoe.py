@@ -19,3 +19,4 @@ class Shoe:
 
     def cobble(self):
         print("Your shoe is as good as new!")
+        self.condition = "New"
